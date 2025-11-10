@@ -8,3 +8,9 @@ Minesweeper implemented in JAVA using SWING and AWT graphics libraries.
 <pre><code>$ java Minesweeper heightOfBoard widthOfBoard numberOfBombs</code></pre>
 e.g.
 <pre><code>$ java Minesweeper 10 10 5</code></pre>
+
+<figure>
+<p align="center">
+  <img src="minesweeper_output.png" width="300" />
+</p>
+</figure>
